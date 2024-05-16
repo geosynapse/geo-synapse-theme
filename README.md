@@ -1,0 +1,62 @@
+# Geo Synapse Theme for Visual Studio
+
+## Overview
+Geo Synapse is a sleek, modern dark theme for Visual Studio, designed to enhance your coding experience with a visually pleasing and easy-on-the-eyes color palette. Whether you're working late into the night or coding in low-light environments, Geo Synapse ensures maximum readability and reduced eye strain.
+
+## Features
+- **Midnight Black Background**: Provides a perfect backdrop for your code, reducing glare and making the syntax highlighting pop.
+- **Vibrant Syntax Highlighting**: Carefully selected colors to highlight syntax, making it easier to differentiate between various elements of your code.
+- **Consistent Aesthetic**: Uniform color scheme across different components of Visual Studio for a seamless coding experience.
+- **Customization Options**: Easily tweak the theme settings to suit your personal preferences.
+
+## Installation
+1. Download the Geo Synapse theme package from the [Microsoft Marketplace](#).
+2. Open Visual Studio and navigate to `Extensions > Manage Extensions`.
+3. Click on `Install from VSIX...` and select the downloaded Geo Synapse theme package.
+4. Follow the prompts to complete the installation.
+5. Restart Visual Studio to apply the theme.
+
+## Usage
+- Once installed, go to `Tools > Options > Environment > General`.
+- Select `Geo Synapse` from the `Color theme` dropdown menu.
+- Click `OK` to apply the theme.
+
+## Screenshots
+![image.png](/images/image.png)
+
+## Author
+**Simon Le Serve**  
+[Website](https://synapticgeometry.com/) | [LinkedIn](https://www.linkedin.com/in/simon-leserve/) | [GitHub](https://github.com/CognitiveFeedback)
+
+## License
+MIT License
+
+Copyright (c) 2024 Simon Le Serve
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
+
+## Feedback
+We love hearing from our users! If you have any suggestions or feedback, please [open an issue](#) on GitHub.
+
+---
+
+Enhance your Visual Studio experience with the Geo Synapse theme and code in style!
