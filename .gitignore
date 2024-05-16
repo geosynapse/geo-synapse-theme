@@ -1,0 +1,5 @@
+geo-synapse/obj/*
+geo-synapse/bin/*
+.vs
+.vscode
+*.user
