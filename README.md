@@ -21,7 +21,7 @@ Geo Synapse is a sleek, modern dark theme for Visual Studio, designed to enhance
 - And click on 'Geo Synapse'
 
 ## Screenshots
-![image.png](/geo-synapse/images/screenshot.png)
+![Screenshot](/geo-synapse/images/screenshot.png)
 
 ## Author
 **geosynapse**  

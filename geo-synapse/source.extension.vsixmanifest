@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="AxiomManifold.GeoSynapse.A774B19A-FB71-4959-AFAB-7DC1222E7C5E" Version="1.0" Language="en-US" Publisher="Axiom Manifold" />
+        <Identity Id="AxiomManifold.GeoSynapse.A774B19A-FB71-4959-AFAB-7DC1222E7C5E" Version="1.1" Language="en-US" Publisher="Axiom Manifold" />
         <DisplayName>Geo Synapse</DisplayName>
         <Description xml:space="preserve">Step into the shadows with our ultra-dark Visual Studio theme, where code comes alive against a pitch-black canvas. Vibrant syntax highlighting cuts through the darkness, illuminating your code with a spectrum of colors that both captivates and clarifies. Perfect for night owls and those who demand style without sacrificing substance.</Description>
         <License>LICENSE.rtf</License>
